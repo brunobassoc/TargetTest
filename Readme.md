@@ -1,5 +1,5 @@
 # Test Questions for Target Sistemas
-These files contain solutions to test questions created for a job application at Target Sistemas, a Brazilian company located in Ribeirão Preto.
+These files contain solutions to test questions created for a job application at Target Sistemas, a Brazilian company located in Ribeirão Preto.\
 __*All questions were answered in Brazilian Portuguese*__
 
 **Purpose**\
